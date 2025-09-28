@@ -60,7 +60,7 @@ main h1 {
     justify-content: center;
     flex-wrap: wrap;
     width: 1200px;
-    margin: 0px;
+    margin: 0px auto;
 }
 
 article {
@@ -94,7 +94,7 @@ article h2 {
 footer {
     background-color: #123B14;
     padding: 20px;
-    width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
